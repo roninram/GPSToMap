@@ -1,0 +1,8 @@
+id,filename,latitude,longitude,timestamp,label
+1,photo_001.jpg,34.7465,-92.2896,2024-03-15 08:12:34,Start - Parking Lot
+2,photo_002.jpg,34.7498,-92.2846,2024-03-15 08:25:11,Coffee Shop
+3,photo_003.jpg,34.7553,-92.2776,2024-03-15 08:41:02,Main Street
+4,photo_004.jpg,34.7620,-92.2816,2024-03-15 09:03:45,Park Entrance
+5,photo_005.jpg,34.7665,-92.2916,2024-03-15 09:22:18,North Side
+6,photo_006.jpg,34.7645,-92.3006,2024-03-15 09:45:55,West Building
+7,photo_007.jpg,34.7565,-92.3056,2024-03-15 10:10:30,End - Suspect Location
