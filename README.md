@@ -1,7 +1,7 @@
 
 
 
-Clean and simple. Here's what you get:
+The GPS Data is extracted from an Exif Jpg dataset
 
 **Required CSV columns:**
 ```
